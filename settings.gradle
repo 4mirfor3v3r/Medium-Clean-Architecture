@@ -1,0 +1,2 @@
+rootProject.name='Medium-Clean-Architecture'
+include ':app'
